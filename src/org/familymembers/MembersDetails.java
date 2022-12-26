@@ -1,5 +1,6 @@
 package org.familymembers;
 
+
 public class MembersDetails extends MembersAge implements RelationDetails {
 	
 	public void hemaLatha() {
@@ -49,9 +50,13 @@ public class MembersDetails extends MembersAge implements RelationDetails {
 		MembersDetails r = new MembersDetails();
 		MembersAge a = new MembersAge();
 		System.out.println("~VIVEKBABU's Family Details~ ");
+		System.out.println();
 		r.Father();
+		System.out.println();
 		r.Mother();
+		System.out.println();
 		r.Wife();
+		System.out.println();
 		r.Doughter();
 	}
 
