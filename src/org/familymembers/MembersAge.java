@@ -6,7 +6,7 @@ public class MembersAge {
 		System.out.println("26 years");
 	}
 	public void yutikshaa() {
-		System.out.println("1.8 years");
+		System.out.println("2 years");
 	}
 	public void perumalsamy() {
 		
